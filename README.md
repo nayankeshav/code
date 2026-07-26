@@ -1,2 +1,4 @@
-# codeforce
- Codeforce Solutions
+# code
+ Solutions
+
+ 
